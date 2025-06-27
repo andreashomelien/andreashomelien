@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,vscode,pycharm,github,git,obsidian,regex,sklearn,tensorflow,pytorch,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,java,vscode,pycharm,github,git,obsidian,regex,sklearn,tensorflow,pytorch,mysql,html,css,nodejs,react" />
 </div>
 
 <br/>
