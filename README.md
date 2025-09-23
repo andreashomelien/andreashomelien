@@ -12,7 +12,7 @@
  
  🎓💻 I’m currently pursuing a **Bachelor's degree in Computer Science**, specializing in Natural Language Processing
  
- 🔭💫 I’m currently learning and working on **AI and Machine learning, Information Security, SQL**
+ 🔭💫 I’m currently learning and working on **AI and Machine learning, Information/Cyber Security, SQL**
 
 😆 Fun fact **The Saturn V rocket had just 64 KB of memory, my phone has over 2 million times more storage! 🚀📱**
 
