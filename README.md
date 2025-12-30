@@ -14,7 +14,7 @@
  
  🔭💫 I’m currently learning and working on **AI and Machine learning, Information/Cyber Security, SQL**
 
-😆 Fun fact **The Saturn V rocket had just 64 KB of memory, my phone has over 2 million times more storage! 🚀📱**
+😆 UPDATE **New Earnings Tracker app comming in january 2026 🚀📱**
 
  </div>
 
