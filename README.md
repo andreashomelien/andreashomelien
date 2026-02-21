@@ -9,12 +9,12 @@
 <br/>
 
 <div align="center">
- 
+    
+ 🚀📱last ned den nye appen min Zalary! **https://zalary.no/**
+    
  🎓💻 I’m currently pursuing a **Bachelor's degree in Computer Science**, specializing in Natural Language Processing
  
  🔭💫 I’m currently learning and working on **AI and Machine learning, Information/Cyber Security, SQL**
-
-🚀📱last ned den nye appen min Zalary! **https://zalary.no/**
 
  </div>
 
