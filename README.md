@@ -14,8 +14,6 @@
     
  🎓💻 I’m currently pursuing a **Bachelor's degree in Computer Science**, specializing in Natural Language Processing
  
- 🔭💫 I’m currently learning and working on **AI and Machine learning, Information/Cyber Security, SQL**
-
  </div>
 
 <div align="center"> 
