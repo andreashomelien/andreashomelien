@@ -14,7 +14,7 @@
  
  🔭💫 I’m currently learning and working on **AI and Machine learning, Information/Cyber Security, SQL**
 
-😆 UPDATE **New Earnings Tracker app comming in january 2026 🚀📱**
+🚀📱last ned den nye appen min Zalary! **https://zalary.no/**
 
  </div>
 
