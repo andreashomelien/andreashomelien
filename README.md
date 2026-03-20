@@ -10,7 +10,7 @@
 
 <div align="center">
     
- 🚀📱last ned den nye appen min Zalary! **https://zalary.no/**
+ 🚀📱Download my new app Zalary! **https://zalary.no/**
     
  🎓💻 I’m currently pursuing a **Bachelor's degree in Computer Science**, specializing in Natural Language Processing
  
