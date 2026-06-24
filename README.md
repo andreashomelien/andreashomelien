@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,regex,sklearn,pytorch,tensorflow,html,css,nodejs,react,vscode,anaconda,pycharm,github,git,obsidian,kotlin,androidstudio,mermaid" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,regex,sklearn,pytorch,tensorflow,html,css,nodejs,react,vscode,anaconda,pycharm,github,git,obsidian,kotlin,ktor,androidstudio,docker,ai,linux,kali" />
 </div>
 
 <br/>
