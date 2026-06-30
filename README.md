@@ -12,7 +12,7 @@
     
  🚀📱Download my new app Zalary! **https://zalary.no/**
     
- 🎓💻 I’m currently pursuing a **Bachelor's degree in Computer Science**, specializing in Natural Language Processing
+ 🎓💻 I have a **Bachelor's degree in Computer Science**, specializing in Artificial intelligence, Machine Learning and Natural Language Processing
  
  </div>
 
