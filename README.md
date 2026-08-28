@@ -12,7 +12,7 @@
     
 📱 Get an overview of your salary with my app, Zalary. 💚✨ **https://zalary.no/**
 
-🎓💻👨‍🎓 Master’s student in Informatics: Programming and System Architecture, specializing in Artificial Intelligence and Machine Learning
+🎓💻👨‍🎓 Master’s student in **Informatics: Programming and System Architecture**, specializing in Artificial Intelligence and Machine Learning
 
  🎓💻 I have a **Bachelor's degree in Computer Science**, specializing in Artificial intelligence, Machine Learning and Natural Language Processing
  
